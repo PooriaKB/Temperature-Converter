@@ -1,4 +1,4 @@
-# Temprature-Converter
+# Temperature-Converter
 
 This app will convert Celcius to Fahrenheit and vice versa🌡️
 
